@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+build/
+dist/
+*.spec
+*.log
+.env*
+settings.json
+*.sqlite3*
+*profile/
+qa-*/
+test-temp/
+test-tmp/
+tests/comment-assistant-tests-*/
